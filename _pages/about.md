@@ -11,12 +11,7 @@ redirect_from:
 #### NUS SoC, 2021/2022, Semester I, Hybrid: Physically Mondays, 16:00-18:00 (i3 Auditorium) and Thursdays, 11:00-12:00 (LT15); Virtually on Zoom via LumiNUS Conferencing.
 <!-- #### NUS SoC, 2021/2022, Semester I, Time and Venue: fully online via Zoom and YouTube. Officially from LumiNUS: Mondays, 16:00-18:00 and Thursdays, 11:00-12:00. -->
 
-<P>&nbsp;
-</P>
-<P>&nbsp;
-</P>
-<P>&nbsp;
-</P>
+<div style="color:red; background-color:pink; padding:10px"><p>This page is for a previous semester, and is kept on the web for archival purposes only.  <a href="https://www.comp.nus.edu.sg/~cs3244/">Go to the current webpage for the course</A>.</p></div>
 
 This module introduces basic concepts and algorithms in machine learning and neural networks. The main reason for studying computational learning is to make better use of powerful computers to learn knowledge (or regularities) from the raw data. The ultimate objective is to build self-learning systems to relieve human from some of already-too-many programming tasks. At the end of the course, students are expected to be familiar with the theories and paradigms of computational learning, and capable of implementing basic learning systems.
 
